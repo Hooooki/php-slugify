@@ -1,0 +1,17 @@
+{
+    "name": "hoooki/php-slugify",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hoooki",
+            "email": "hooki.kibo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ohooki\\" : "src/"
+        }
+    }
+}
